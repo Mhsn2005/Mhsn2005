@@ -16,21 +16,28 @@
 ### 🚀 About Me
 
 I'm a final-year Computer Engineering student at Amirkabir University of Technology, currently working at **TRT.co** in Tehran.  
-I build production systems across the stack — with a strong focus on **healthcare / medical software**, B2B platforms, and real-world domain applications.
+I build production systems across the stack — with a strong focus on **healthcare / medical software** and real-world domain applications. I also take on selected freelance projects.
 
 I care about clean architecture, maintainable code, and shipping software that is actually used in hospitals, companies, and organizations.
 
 ---
 
-### 💼 Professional Experience (TRT.co)
+### 💼 Experience at TRT.co
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **3D Anatomical Body** | Interactive 3D human body for medical education & visualization | Blender, Three.js |
 | **PACS Viewer** | Medical imaging viewer system | Cornerstone.js |
-| **YazdanParts** | Published B2B platform for parts / commerce | Angular, .NET Core |
 | **ShafaPMonitor** | Patient status monitoring system for hospital kiosks (patient companions) | Full-stack |
 | **Medical Voice-to-Text** | Ongoing speech-to-text solution for medical use cases | (in progress) |
+
+---
+
+### 🤝 Freelance Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **YazdanParts** | Published B2B platform for parts / commerce | Angular, .NET Core |
 | **Netball Federation App** | Application development collaboration with the Netball Federation | React / domain work |
 
 ---
@@ -64,9 +71,9 @@ I care about clean architecture, maintainable code, and shipping software that i
 
 ### 📈 Currently
 
-- Software developer at **TRT.co** (Tehran) — medical & enterprise systems
+- Software developer at **TRT.co** (Tehran) — medical systems
 - Final-year CE student @ Amirkabir University of Technology
-- Working on medical voice-to-text + Netball Federation collaboration
+- Working on medical voice-to-text
 - Open to interesting full-stack / backend opportunities
 
 ---
