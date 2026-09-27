@@ -18,6 +18,8 @@
 I'm a final-year Computer Engineering student at Amirkabir University of Technology, currently working at **TRT.co** in Tehran.  
 I build production systems across the stack — with a strong focus on **healthcare / medical software** and real-world domain applications. I also take on selected freelance projects.
 
+Ranked **26th** in Iran’s National University Entrance Exam (Konkoor).
+
 I care about clean architecture, maintainable code, and shipping software that is actually used in hospitals, companies, and organizations.
 
 ---
