@@ -3,9 +3,10 @@
 # 👋 Hi, I'm Mohammad Hossein Salehy Nezhad
 
 ### Computer Engineering Student @ **Amirkabir University of Technology** (Tehran Polytechnic)  
-**Final-year** · Full-stack Developer · Clean Architecture enthusiast
+**Final-year** · Full-stack Developer · Currently at **TRT.co** (Tehran)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github)](https://mhsn2005.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:MohammadHosseinSalehyNezhad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mhsn2005-181717?style=for-the-badge&logo=github)](https://github.com/Mhsn2005)
 
 </div>
@@ -14,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm a final-year Computer Engineering student at one of Iran's top technical universities.  
+I'm a final-year Computer Engineering student at one of Iran's top technical universities, currently working at **TRT.co** in Tehran.  
 I build **production-minded** applications across the stack — from modern React / Angular frontends to clean, scalable .NET backends and solid database design.
 
 I care about:
@@ -56,13 +57,16 @@ I care about:
 
 ### 📈 Currently
 
-- Crafting a strong public portfolio & open-source style demos
-- Deepening modern .NET + React/TypeScript practices
-- Open to **internships and junior full-stack / backend roles** (Iran + remote-friendly)
+- Working at **TRT.co** (Tehran)
+- Final-year Computer Engineering student at Amirkabir University of Technology
+- Building a strong public portfolio & open-source style demos
+- Open to interesting full-stack / backend opportunities
 
 ---
 
 ### 📫 Let's connect
+
+**Email:** [MohammadHosseinSalehyNezhad@gmail.com](mailto:MohammadHosseinSalehyNezhad@gmail.com)
 
 I'm always happy to talk about architecture, clean code, or interesting problems.
 
