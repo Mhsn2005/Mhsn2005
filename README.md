@@ -15,51 +15,58 @@
 
 ### 🚀 About Me
 
-I'm a final-year Computer Engineering student at one of Iran's top technical universities, currently working at **TRT.co** in Tehran.  
-I build **production-minded** applications across the stack — from modern React / Angular frontends to clean, scalable .NET backends and solid database design.
+I'm a final-year Computer Engineering student at Amirkabir University of Technology, currently working at **TRT.co** in Tehran.  
+I build production systems across the stack — with a strong focus on **healthcare / medical software**, B2B platforms, and real-world domain applications.
 
-I care about:
-- Clean Architecture & maintainable code
-- Real-world problem solving (education tech, sports analytics, developer tools)
-- Modern web practices (TypeScript, responsive UI, well-designed APIs, Docker)
+I care about clean architecture, maintainable code, and shipping software that is actually used in hospitals, companies, and organizations.
+
+---
+
+### 💼 Professional Experience (TRT.co)
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **3D Anatomical Body** | Interactive 3D human body for medical education & visualization | Blender, Three.js |
+| **PACS Viewer** | Medical imaging viewer system | Cornerstone.js |
+| **YazdanParts** | Published B2B platform for parts / commerce | Angular, .NET Core |
+| **ShafaPMonitor** | Patient status monitoring system for hospital kiosks (patient companions) | Full-stack |
+| **Medical Voice-to-Text** | Ongoing speech-to-text solution for medical use cases | (in progress) |
+| **Netball Federation App** | Application development collaboration with the Netball Federation | React / domain work |
 
 ---
 
 ### 🛠 Tech Stack
 
 **Frontend**  
-`React` `Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `JavaFX`
+`Angular` `React` `TypeScript` `Three.js` `Cornerstone.js` `JavaScript` `HTML/CSS`
 
 **Backend**  
-`C#` `.NET` `ASP.NET Core` `Clean Architecture` `Dapper` `JWT` `Swagger`
+`C#` `.NET Core` `ASP.NET Core` `Clean Architecture` `Dapper` `JWT`
 
-**Databases & DevOps**  
+**3D / Medical / Specialized**  
+`Blender` `Three.js` `Cornerstone` `PACS`
+
+**Databases & Tools**  
 `SQL Server` `SQLite` `Docker` `Git`
-
-**Other**  
-`Java` `Maven` `Cloudflare Workers`
 
 ---
 
-### 📌 What I've been building
+### 📌 Other Selected Work
 
-| Area | Highlights |
-|------|------------|
-| **Backend / Microservices** | Clean Architecture .NET services with JWT auth, Dapper, audio streaming, scoring engines, integrity monitoring, performance analytics |
-| **Frontend** | Polished React presentations & tools, multi-language code formatter with dark mode & live diff |
-| **Desktop / Real-time** | Multi-client collaborative canvas apps with sockets + SQLite |
-| **Domain projects** | Education (TOEFL listening), Sports analytics feasibility (Netball federation reporting) |
+- **TOEFL Listening Microservice** — Clean Architecture .NET backend (JWT, audio streaming, scoring, analytics)
+- **Code Transformer** — Multi-language code formatter & live diff tool
+- **Collaborative Drawing Platform** — Real-time multi-client canvas (Java + JavaFX + sockets)
 
-> Most recent work is in private repositories (university / client projects).  
+> Most company and client work remains private.  
 > Public portfolio: [mhsn2005.github.io/portfolio](https://mhsn2005.github.io/portfolio)
 
 ---
 
 ### 📈 Currently
 
-- Working at **TRT.co** (Tehran)
-- Final-year Computer Engineering student at Amirkabir University of Technology
-- Building a strong public portfolio & open-source style demos
+- Software developer at **TRT.co** (Tehran) — medical & enterprise systems
+- Final-year CE student @ Amirkabir University of Technology
+- Working on medical voice-to-text + Netball Federation collaboration
 - Open to interesting full-stack / backend opportunities
 
 ---
@@ -68,11 +75,10 @@ I care about:
 
 **Email:** [MohammadHosseinSalehyNezhad@gmail.com](mailto:MohammadHosseinSalehyNezhad@gmail.com)
 
-I'm always happy to talk about architecture, clean code, or interesting problems.
+Happy to talk about healthcare software, clean architecture, Angular/.NET, or 3D web experiences.
 
 <div align="center">
 
-**Thanks for visiting!**  
-Feel free to explore my repositories or reach out.
+**Thanks for visiting!**
 
 </div>
