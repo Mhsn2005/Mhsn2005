@@ -5,7 +5,7 @@
 ### Computer Engineering Student @ **Amirkabir University of Technology** (Tehran Polytechnic)  
 **Final-year** · Full-stack Developer · Clean Architecture enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge&logo=github)](https://github.com/Mhsn2005/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github)](https://mhsn2005.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Mhsn2005-181717?style=for-the-badge&logo=github)](https://github.com/Mhsn2005)
 
 </div>
@@ -50,7 +50,7 @@ I care about:
 | **Domain projects** | Education (TOEFL listening), Sports analytics feasibility (Netball federation reporting) |
 
 > Most recent work is in private repositories (university / client projects).  
-> I'm currently turning key ideas into clean public demos and a portfolio site.
+> Public portfolio: [mhsn2005.github.io/portfolio](https://mhsn2005.github.io/portfolio)
 
 ---
 
